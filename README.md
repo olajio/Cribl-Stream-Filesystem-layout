@@ -1,5 +1,3 @@
----
-
 **Base install path** — `$CRIBL_HOME` defaults to `/opt/cribl`. Everything below is relative to it.
 
 **`bin/`** — All CLI binaries. The main `cribl` executable drives everything: `start`, `stop`, `restart`, `reload`, `status`, `diag`, `git`, and the mode-switching commands (`mode-master`, `mode-worker`, `mode-single`).
